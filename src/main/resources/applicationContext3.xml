@@ -6,14 +6,6 @@
 
     <!-- bean definitions here -->
 
-    <bean id="myPet"
-          class = "spring_introduction.Dog"
-          init-method="init"
-          destroy-method="destroy"
-    >
-<!--          scope="prototype"-->
-    </bean>
-
 
 
 </beans>
